@@ -1,20 +1,23 @@
+* {
+  text-align: right;
+}
+
 body {
   background-image: url(../images/bg.jpg);
   background-size: cover;
+  margin: 32px;
 }
 
 h2 {
-  color: rgb(113, 105, 0);
+  color: #BB006A;
   text-align: center;
   border: 5px solid #721330;
   cursor: pointer;
 }
 
-p{
-  color: rgba(11.8, 41.2, 7.1, 1);
-}
-
 li {
   list-style: none;
   display: inline-block;
+  color: #136F00;
+
 }
